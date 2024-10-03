@@ -1,0 +1,3 @@
+C:/Users/kiran/CLionProjects/lab5cop3504/cmake-build-debug/CMakeFiles/lab5cop3504.dir
+C:/Users/kiran/CLionProjects/lab5cop3504/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kiran/CLionProjects/lab5cop3504/cmake-build-debug/CMakeFiles/rebuild_cache.dir
